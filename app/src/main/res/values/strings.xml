@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AudioShare</string>
+
+    <string name="facebook_app_id">394083034321764</string>
+    <string name="fb_login_protocol_scheme">fb394083034321764</string>
+    <string name="title_activity_record_audio">RecordAudio</string>
+    <color name="blue">#77abff</color>
+    <color name="orange">#ffcd82</color>
+
+
+</resources>

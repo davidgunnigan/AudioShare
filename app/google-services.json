@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1010396865107",
+    "firebase_url": "https://audioshare-30770.firebaseio.com",
+    "project_id": "audioshare-30770",
+    "storage_bucket": "audioshare-30770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010396865107:android:2d3a3998104bf4ea",
+        "android_client_info": {
+          "package_name": "com.example.dave.audioshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010396865107-t2clt3chst1ta7aqgrcqu9lr2u9621bb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dave.audioshare",
+            "certificate_hash": "262058d14f0b11157f92fccbfee7c736d849f05f"
+          }
+        },
+        {
+          "client_id": "1010396865107-qqlah0f6f9f540i07m6tuse1ominb7mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6FougBUQJJ_0znyUvJI4AVoA4wsueFgk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010396865107-qqlah0f6f9f540i07m6tuse1ominb7mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
